@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/raxit-sharma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/raxit-sharma-163400276/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:raxit.sharma.qa@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/raxit00701?tab=repositories"><img src="https://img.shields.io/badge/Frameworks-25%2B%20repos-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
 </p>
@@ -128,7 +128,7 @@ I'm a QA Automation Engineer who tests web, mobile and API-driven products for s
 
 <p align="center">
   <i>🎓 B.C.A., Dayananda Sagar University, Bengaluru (2024) &nbsp;·&nbsp; Certified in QA Manual Testing (Agile & Jira) and Software Testing</i><br/><br/>
-  <a href="https://linkedin.com/in/raxit-sharma"><img src="https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raxit-sharma-163400276/"><img src="https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:raxit.sharma.qa@gmail.com"><img src="https://img.shields.io/badge/Hire%20me-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
