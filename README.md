@@ -20,9 +20,12 @@
 
 ## 👋 About me
 
-<img align="right" width="340"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=raxit00701&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6"
-alt="Top Languages" />
+<img
+  align="right"
+  width="340"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=raxit00701&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&size_weight=0.5&count_weight=0.5"
+  alt="Top Languages"
+/>
 
 I'm a QA Automation Engineer who tests web, mobile and API-driven products for startups and enterprises — including a **Google retail-technology engagement** — and builds the automation frameworks that keep releases safe.
 
