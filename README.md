@@ -42,7 +42,10 @@ I'm a QA Automation Engineer who tests web, mobile and API-driven products for s
 <div align="center">
 
 **Automation**<br/>
-<img src="https://skillicons.dev/icons?i=selenium,postman,jenkins,githubactions&theme=dark" alt="automation"/>
+<img
+  src="https://skillicons.dev/icons?i=selenium,postman,jenkins,githubactions&theme=dark"
+  alt="Selenium, Postman, Jenkins, GitHub Actions"
+/>
 &nbsp;
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
