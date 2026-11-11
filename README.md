@@ -31,7 +31,7 @@ I'm a QA Automation Engineer who tests web, mobile and API-driven products for s
 
 - 🧪 **2,000+ manual & automated test cases** designed and executed across HR Tech, Sales Tech, e-commerce, fintech and AI SaaS
 - 🐞 **350+ defects found**, including 20+ critical / P1 issues and SQL-injection vulnerabilities caught through security-aware testing
-- ⚙️ **Reusable frameworks** in Playwright (TypeScript / Python), Selenium (Java / Python) and Appium, all wired into Jenkins & GitHub Actions with Allure reporting
+- ⚙️ **Reusable frameworks** in Playwright (TypeScript / Python), Selenium (Java / Python) and Appium (Java / Python), all wired into Jenkins & GitHub Actions with Allure reporting
 - 🤖 **AI / LLM application testing** — semantic validation, RAG evaluation and response-accuracy checks for chatbot and gen-AI products
 - 📉 Cut UI test flakiness by **~60%** with API-driven setup and network mocking
 
